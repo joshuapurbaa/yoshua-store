@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660259657109",
+    "project_id": "yoshua-store",
+    "storage_bucket": "yoshua-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660259657109:android:fe1584cea3b856b7a8129c",
+        "android_client_info": {
+          "package_name": "com.example.yoshua_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVnlnkbjzTLKLYXl54kejWlzfTStPIch0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
